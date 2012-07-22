@@ -1,13 +1,47 @@
+* {
+	margin-top: 0;
+}
 body {
 	background: url("/baramalamadingdong/images/crosshatch.png") repeat scroll 0% 0% transparent;
 	color: rgb(56, 53, 57);
-	font: 13px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-top: 0;
+}
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: #555;
+}
+a:active {
+	text-decoration: none;
+	color: #555;
+}
+ul {
+	list-style: none;
+}
+ul li {
+	list-style: none;
+}
+nav {
+	font-size: 1.2em;
+	font-weight: bold;
+	padding-top: 20px;
+}
+nav ul li {
+	display: inline;
+	margin-left: 40px;
 }
 #container {
 	background: #fff;
 	width: 960px;
-	height: 1200px;
+	height: 1000px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 0;
