@@ -2,7 +2,7 @@
 	margin-top: 0;
 }
 body {
-	background: url("/baramalamadingdong/images/crosshatch.png") repeat scroll 0% 0% transparent;
+	background: url("../images/crosshatch.png") repeat scroll 0% 0% transparent;
 	color: rgb(56, 53, 57);
 	font-family: 'Open Sans', sans-serif;
 	margin-top: 0;
